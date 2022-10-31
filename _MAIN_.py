@@ -197,6 +197,9 @@ def main():
                                             formdata_userid=username, formdata_seg=seg,
                                             php_sessionid=config.get_value('firstqueryid'))
 
+
+
+
         while True:
             schedule.run_pending()
             print('当前时间:',timeutil.getCurDateAndTime())
@@ -205,7 +208,7 @@ def main():
         print(3)
     elif(opt=='4'):
         print(2)
-    ##赵景宜 qlu156116
+
 main()
 
 # import schedule

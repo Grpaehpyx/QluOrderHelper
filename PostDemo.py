@@ -2,8 +2,8 @@ import requests
 import json
 
 data={
-    'username':'201911010012',
-    'password':'qlu162315',
+    'username':'',
+    'password':'',
     'verify':'2064',
     'PHPSESSID':'4d9hhd6qu8vt30gtvu7sqsh0f7'
 

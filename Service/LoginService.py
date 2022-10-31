@@ -14,8 +14,8 @@ header={
     'X-Requested-With': 'XMLHttpRequest'
 }
 formdata={
-                'username':'201911010012',
-                'password':'qlu162315',
+                'username':'',
+                'password':'',
                 'verify':1234
          }
 
